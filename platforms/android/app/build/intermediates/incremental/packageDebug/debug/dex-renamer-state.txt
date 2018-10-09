@@ -1,0 +1,4 @@
+#Tue Oct 09 16:27:23 EDT 2018
+base.0=/Users/mm58169/code/isolateFileXHR/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
